@@ -58,3 +58,14 @@ on collective behavior analysis.
 ```bash
 pip install -r requirements.txt
 python crowd_analysis.py
+```
+
+## 📸 Demo
+
+<p align="center">
+  <img src="assets/demo1.jpg" width="600"/>
+</p>
+
+<p align="center">
+  <img src="assets/demo2.jpg" width="600"/>
+</p>
